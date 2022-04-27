@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
+<<<<<<< HEAD
+=======
+python-dotenv = "*"
+flask-cors = "*"
+>>>>>>> 67eb74d (Initial commit)
 
 [dev-packages]
 
